@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554518596841",
+    "firebase_url": "https://englishgo-ed56e.firebaseio.com",
+    "project_id": "englishgo-ed56e",
+    "storage_bucket": "englishgo-ed56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554518596841:android:c44e7059e9ff9150",
+        "android_client_info": {
+          "package_name": "sepm.englishgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554518596841-014qap5tmd1ibomi7vqelfgh2fq2i38f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sepm.englishgo",
+            "certificate_hash": "a9d067fdfc5be93d0ea587964eb02355252314b6"
+          }
+        },
+        {
+          "client_id": "554518596841-q25d42gh6utapj7nguul42u7oh537ce3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAm3Age5W8Pc9Q6kHpI0b0PCc9KfFGl9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554518596841-q25d42gh6utapj7nguul42u7oh537ce3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
